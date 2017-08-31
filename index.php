@@ -1,6 +1,7 @@
 <?php
 //внес изменения опять
-//где изменения
+//где изменения пошли в мастер
+
 
 include_once('./config.php');
 if (isset($_GET['id'])) $id = Save::number($_GET['id']);
